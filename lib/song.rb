@@ -15,5 +15,9 @@ class Song
     song.save
     song
   end
+  
+  def new_by_name(song_string)
+    song = 
+  end
 
 end
